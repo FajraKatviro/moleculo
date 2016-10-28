@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>moleculo.wav</file>
+    </qresource>
+</RCC>
